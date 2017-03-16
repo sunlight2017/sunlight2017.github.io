@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1.6em;
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #5e1c08;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #4b1606;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #ffffff;
+}
+#slider-3 H2 {
+  color: #d9534f;
+}
+#slider-3 P {
+  color: #f2f2f2;
+}
+#slider-3 FONT {
+  color: #d9534f;
+}
+#msg-box4-4 .lead {
+  color: #830303;
+}
+#msg-box4-4 .lead P {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#social-buttons1-c .mbr-section-title {
+  color: #830303;
+}
